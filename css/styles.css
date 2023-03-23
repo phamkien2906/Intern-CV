@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #3898bd;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #3898bd !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -7512,7 +7512,7 @@ button.bg-dark:focus {
 
 .mb-0,
 .my-0 {
-  margin-bottom: 0 !important;
+  margin-bottom: 10 !important;
 }
 
 .ml-0,
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #3898bd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10108,13 +10108,13 @@ p.lead {
 }
 
 section.resume-section {
-  display: flex;
-  align-items: center;
+  /*display: flex;
+   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 75rem; */
 }
 section.resume-section .resume-section-content {
   width: 100%;
